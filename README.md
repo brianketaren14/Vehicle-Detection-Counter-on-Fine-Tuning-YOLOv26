@@ -6,6 +6,8 @@ This project focuses on vehicle detection and counting using a fine-tuned YOLOv2
 
 The system uses deep learning-based object detection to locate vehicles in a scene and track the number of detected objects. By fine-tuning a pretrained YOLOv26 model on a custom dataset, the model is adapted to perform better on specific vehicle detection tasks.
 
+<img width="794" height="476" alt="image" src="https://github.com/user-attachments/assets/49653a9d-88ce-46f2-9505-8f1544ca5abe" />
+
 ## Main Objectives
 
 - Detect vehicles in images and video frames
